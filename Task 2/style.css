@@ -1,0 +1,27 @@
+body{
+    background-color: #FF7F50;
+}
+.head{
+    color: #00008b;
+}
+#bglime{
+    background-color: palegreen;
+}
+h2{
+    font-size: xxx-large;
+}
+p{
+    font-size: 29px;
+    color: #ffff;
+}
+#para{
+    font-size: larger;
+    color: green;
+}
+p span{
+    font-size: 34px;
+    color: black;
+}
+ul li {
+    color: #ffff;
+}
